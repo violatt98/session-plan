@@ -1,0 +1,394 @@
+NJN
+· Gender	Female
+· Date of birth	27-Aug-2014
+· Age at Current Assessment	12 year(s) 1 month(s) 8 day(s)
+· Accompanied By	Mother
+· Consultation In	English
+· Source of Referral	KK SOC
+
+Clinical Notes: 
+Clinical Note Subspecialty:
+· Department	Otolaryngology
+
+· Clinical Note	
+ENT OTR3
+CIC Dr Chan CY
+
+Issues:
+Right otitis media with effusion
+Left chronic suppurative otitis media - dry
+s/p Examination under anaesthesia of ears, right myringotomy and tube insertion 26/8/26
+
+Missed earlier post-op TCU
+Some right otorrhea immediately post procedure which has since cleared
+Has some right tinnitus when lying on the left
+
+O/E
+Left EAC normal, TM anterior inferior 10% dry perforation
+Right EAC normal, TM triune tube in situ, appears patent
+Inferior turbinates 2+/2+
+Tonsils +/+
+
+Audio 5/10/26
+Bilateral mild low frequency CHL
+Tymp B/B with large ECV on the left 4mL
+
+Explained that air bone gap has closed well on the right
+Tube is probably working well and tinnitus should improve over time
+Will continue to monitor for presence of right tube
+If persistent >1yr can potentially consider removal of right tube in same sitting with left cartilage tympanoplasty
+
+Plan - TCU 6/12 for review no need audio
+
+
+· Allergy Information	
+	No Known Allergies.
+
+· Acknowledgement	I acknowledge the patient's allergy & G6PD information
+· G6PD Deficiency:	Unknown
+
+Diagnosis: 
+Selected Diagnosis:
+
+· Diagnosis 1	503933017 : Otitis media with effusion
+· Remarks 1	bilateral S/P M and T recurrent
+· Status	Active
+· Diagnosis 2	63479018 : Chronic suppurative otitis media
+· Remarks 2	left, currently inactive
+· Status	Active
+
+Follow-up Plan: 
+6/12 for review. 
+
+Follow-up in 6 Month(s). 
+
+Care Provider Name: Chan Ching Yee / MCR: dr14752d. 
+
+Author Name: Gerard Low Zhi-Xiong / MCR: dr64705e. 
+
+Consult Date: 05-Oct-2026 17:14.
+
+
+Electronic Signatures:
+Gerard Low Zhi-Xiong (Doctor)  (Signed 05-Oct-2026 17:16)
+	Authored: KKH Otolaryngology Consult Notes, Clinical Notes, Images, Diagnosis, Follow-up Plan
+
+ ST Paeds Notes KKH [Charted Location: KKH-Children-Craniofacial Ctr] [Authored: 05-Sep-2025 13:29]- for Visit: 7714207299Z0096, Complete, Revised, Signed in Full, General
+
+Subjective: 
+General Information:
+·  Referring Doctor 08538C POR YONG CHEN.
+·  Department Plastic, Reconstructive & Aesthetic Surgery.
+·  Patient Identifier Name and IC.
+·  Post Menstrual Age         : - Corrected age -.
+
+Medical History & Patient Interview:
+· Diagnosis/Medical History	
+DIAGNOSES
+Cleft Palate
+VSD and ASD
+
+OTHER PAST MEDICAL HISTORY
+Otitis Media with Effusion 
+Bil ear superior pole constriction. Counselled on Earwell by Dr Por Yong Chen.
+Severe childhood caries
+
+ON FOLLOW UP WITH
+KKH ENT
+KKH Plastic Surgery Dr Por Yong Chen
+KKH Dental (Dr Toh SL)
+KKH CCRC SLT (Jasmine Teo)
+KKH DCD (First seen May 2019)
+NUH Cardiologist (DrTerence, every 6 months review)
+
+
+BIRTH HISTORY
+Born at Mt Alvernia Hospital
+Birth weight 2.58kg
+
+LIST OF SURGERIES
+September 2014, cardiac operation for VSD and ASD, NUH (Dr Shanker) as parents wanted surgery done urgently.
+28/07/15, Intravelar veloplasty, Dr Por Yong Chen
+28/07/15, Bil myringotomy and tympanostomy, Dr Alex Tham
+30 July 2018: severe childhood caries requiring extraction of 7-8 teeth with crowning, pulpotomy, fissue sealant, polishing, suturing (under GA; Dr Toh SL)
+2 July 2019: Bilateral Myringotomy & Tympanostomy 
+
+
+· Attended with	Mother
+· Time	05-Sep-2025 13:29
+· History of Communication/Swallowing/Feeding	
+MOTOR MILESTONES
+Rolled over: 6-7 months
+Sat independently and stood independently by 11months
+Walked with support at 16 months (elder brother walked at 16 months)
+
+LANGUAGE MILESTONES
+Babbling reported at 11 months
+No first words at 16 months
+Starting using single words at 20 months
+Combining words by 2 years 3 months
+History of delay in expressive/verbal language development
+
+FEEDING
+Was using Pigeon cleft bottle
+Night feeding as a child > multiple caries requiring extraction of 7-8 teeth with crowning (performed on 30 July 2018)
+
+LIST OF AUDIO-VIDEO (AV) RECORDINGS & NASALANCE SCORES
+4 Nov 2019: AV (Sony Exmor) and Nasometry 42%
+26 Nov 2021: AV Recording (Rm 7 Sony ZV-1) and Nasometry 49%
+29 Dec 2022: AV Recording (Rm 8 Sony ZV-1) and Nasometry 67% (?accuracy; perceptually WNL)
+19 Jun 2024: AV Recording (Rm 8 Sony ZV-1) and Nasometry 46% 
+5 Sep 2025: AV Recording (Rm 8 Sony ZV-1) and Nasometry 51% 
+
+
+PREVIOUS ASSESSMENT / INTERVENTION
+1) Recommended in April 2016 to attend monthly parent training for language stimulation strategies at CCRC Speech Language Therapy but had poor attendance. 
+
+2) 9 July 2018
+3;10
+
+Parents did not bring in specific videos to show SLT about child talking
+Father found 1 video but did not show child stuttering; only in Mandarin, and intelligible at sentence level
+
+Diagnostic Evaluation of Articulation and Phonology (Dodd, Hua, Crosbie, Holm & Ozanne, 2002)
+-Articulation subtest: Refer to transcription on record form
+-Inconsistent backing /d/ to /g/, /s/ to /k/
+-Coalescence /f/ to /s/
+-Inconsistent stopping /f/ to /p/, /v/ to /b/
+-Gliding /r/ to /w/
+-Deaffrication /t͡ʃ/ to /t/
+
+Intelligibility fair-moderate at single word level
+Likely to deteriorate at sentence level (not heard in clinic)
+
+Oromotor examination
+Multiple teeth extracted (7) together with dental work (fillings, pulpotomy, crowns on 3 teeth)
+Mild anterior tongue tie seen
+Geographic tongue (parents were told of diagnosis by Dentist, for conservative management)
+
+Resonance mostly normal
+Inconsistent nasal airflow errors
+Nasal turbulence may accompany /t͡ʃ/ at final position, /ʃ/ at initial position, /b, d, z, k/ at initial position
+Inconsistent nasal air emission may accompany /s/ in final position
+
+3)21 June 2019 (4;9)
+
+Singapore English Action Picture Test (SEAPT) administered.
+
+Parents reported she is English-dominant
+
+Parents had to be reminded not to give any cues to child during testing.
+
+Information: 52 (10-15th percentile)
+Grammar: 23 (10-15th percentile) 
+
+4) DSP ST from 5 July to 2 Sep 2019 (ST Amanda See) at NTUC First Campus.
+- 10 individual sessions
+- 5 in-class sessions
+- Focus was on
+a) Articulation /f, v, s,z/
+b) Following instructions - first, then, not
+c) 'wh' questions
+d) Sequencing - 2-3 steps, describing picture sequences
+- ST recommended Jing Ning receive another SLT package from Jan - April 2020.
+
+5) DSP ST from Jan to March 2020 (ST Amanda See) at NTUC First Campus
+- Sentence structure
+
+6) 22 June 2020 and 1 July 2020 - Psychological Assessment at KKH Psychological Services (Fathin Aerlisa) for ascertaining current functioning for educational support and recommendations
+
+Full Scale Intelligence Quotient (FSIQ) - within the Borderline to Low Average range with varied skills ranging between low average to average range
+Presented with underdeveloped expressive and receptive language abilities and fluid reasoning ability
+The academic assessment found Jing Ning’s overall academic skills to be Low Average with varied skills ranging between extremely low and average
+
+7) 6 Dec 2021, 13 Dec 2021 and 13 Jan 2022 - Clinical Evaluation of Language Fundamentals (5th Edition)
+
+CORE LANGUAGE STANDARD SCORE =81 (10th percentile), borderline/at risk 
+EXPRESSIVE LANGUAGE STANDARD SCORE = 83 (13th percentile), borderline/at risk
+RECEPTIVE LANGUAGE STANDARD SCORE = 87 (19th percentile), Average
+
+8) 11 Nov 2024, Speech Videofluoroscopy. Predominantly firm closure sustained in connected speech with a circular closure pattern. Occasional touch closure noted on lateral view with inconsistent backflow of barium in connected speech and on isolated fricatives /s/, 'sh' and affricate 'ch'.
+
+
+· Current Status of Communication/Swallowing/Feeding	
+5 Sep 2025
+(11;0)
+
+Mother reported:
+
+ACADEMIC
+Failed Math for Weighted assessment
+Has borderline academic performance - long standing
+Attends remedial class for Math
+Tuition for Math and Science
+
+SPEECH
+Mother shared that child's speech sounds still sound unclear when she speaks very softly or mumbles
+Generally still intelligible and understandable to all communication partners
+
+HEARING
+Gets ear infection occasionally which often lead to OME
+Hearing affected whenever child has an ear infection
+
+ENT on 19/5/25
+R EAC min wax, at done
+EAC normal, TM appears air filled today
+- no more blue drum appearance or obvious retraction 
+L EAC TM normal aerated 
+TCU 6 months
+
+
+
+
+
+· Social / Educational History and Others	
+LANGUAGE BACKGROUND
+-Home languages: Mandarin, English. Father and grandparents speak Mandarin with child.
+-Child’s dominant language: English (in school) and Mandarin (to grandparents)
+
+EDUCATION
+-Planning to go Punggol Primary for P5 in 2025
+-Not in learning support in 2023
+-Attends student care after school  (Hope Student Care) - Stopped June 2023
+-Teachers feedback: NIL feedback
+-Attended DS-LS July - Sep 2019 and Jan-March 2020 for ST.
+-Attends Math and Science group tuition
+-CCA: Arts and Craft Club
+
+FAMILY
+-Lives with parents, elder brother Ethan (12 years old, Sec 2 in 2025), and paternal grandparents
+-Occupation: Mother - underwriter/executive; Father - engineer. Both diploma holders.
+-Main caregivers: grandparents
+-No family history of clefting
+
+
+Family Genogram:
+· Family Genogram needed	Yes
+· Family Genogram	
+ 
+
+
+Pain Management:
+· Do you have any pain ?	No
+
+Objective: 
+Presentation:
+· Clinical Presentation	Alert and well
+Soft spoken
+Compliant with all task
+
+Assessment:
+· Assessment	
+5 Sep 2025
+(9;9)
+
+1. GREAT ORMOND STREET SPEECH ASSESSMENT (GOS.SP.ASS)
+-Resonance: Inconsistent borderline hypernasality
+-Voice: Normal voice but Reduced volume
+-Nasal emission: Consistent Inaudible and inconsistent audible, accompanying consonants. Consistent misting via both nares on Mirror Test
+-Nasal Turbulence: Inconsistent nasal turbulence accompanying consonants
+-Grimace: Inconsistent nasal flaring
+-Overall intelligibility: 90% - 100% intelligibility in spontaneous speech and in conversation. Intelligibility impacted by reduced volume of voice
+
+Largely Normal consonant production
+
+Oromotor Examination
+-Lips strength and coordination Within Normal Limits. Adequate lip seal and cheek puff
+-Tongue strength and range Within Normal Limits 
+-Mild anterior tongue tie; able to extend beyond lip borders
+-Jaw strength and range Within Normal Limits
+-Class I occlusion
+-2 crowned bottom molars; Malaligned dentition
+-Diastema in upper cental incisors; Upper lip tie
+-Marked and symmetrical velum elevation on phonation
+-Posterior pharyngeal wall recruitment visualised
+-Fistula: Minute fistula in soft palate above uvula
+-Tonsils: No Abnormalities Detected 
+
+2. AUDIO-VIDEO (AV) RECORDING
+- Mother gave verbal consent for therapists Jasmine Teo from Craniofacial Speech Pathology, Department of Plastic, Reconstructive & Aesthetic Surgery, KK Women's and Children's Hospital to take audio-video recordings of the patient for diagnostics, record, teaching and academic purposes. 
+- Done (Rm 8 Sony ZV-1 used) 
+
+3. NASOMETRY 
+~51% - Above threshold; consistent to perceptual borderline hypernasality
+
+
+
+
+Intervention:
+· Intervention	
+5 Sep 2024
+(10;0)
+
+1. READING PASSAGE 
+
+-Had child read some passages from 'Home Speech Home' with mixed consonants
+-Good fluency and rate
+-Inconsistent nasal turbulence heard during reading
+-Consistent mild hypernasality while reading
+-Observed to respond to questions regarding passage appropriately with minimal prompts from ST
+
+2. SPEECH VIDEOFLUOROSCOPY
+
+-Explained and went through 'My Speech X-Ray' booklet with child and parent
+-Child was able to read speech stimuli with half an arm's length away with her glasses off
+-Both child and mother verbalised understanding of the procedure 
+
+
+Analysis / Plan: 
+Clinical Summary:
+· Clinical Summary	
+1. Mild expressive-receptive developmental language disorder, secondary to history of delayed expressive/verbal language development. 
+2. Normal consonant production
+3. Inconsistent borderline hypernasality with audible nasal air emission
+4. Soft voice quality. 
+
+
+· Plans	
+TCU ENT 17/11/25
+TCU CCRC JTEO 4/9/25 for annual review
+TCU Dental and Orthodontist 21/11/25
+TCU Dr Por 17/11/25
+
+
+
+· Name of ST	Jasmine Teo Lee Ping
+· Therapy Needs Level Options	0
+· Status Last Updated on	05-Sep-2025
+
+Goals:
+Goal: Generate INITIATING EVENT and INTERNAL RESPONSE (PROBLEM) of a personal recount with the support of sentence frames. 
+
+Goal: Overall targets
+- Vocabulary
+- Concepts (temporal, sequential)
+- Story grammar structure > main idea, WH- questions
+- Coordinating and subordinating conjunctions > model syntax. 
+
+Goals Achieved: For child to describe pictures using complete sentence in SVO+location structure with moderate prompts 80% of the time 09-Sep-2021 18:11:13
+Recall WH- questions and corresponding referents 100% with visual cues 13-Oct-2022 17:09:01
+Demonstrate understanding of ordinal numbers 80% of the time 30-Mar-2023 17:51:09
+Generate a coherent SETTING (INTRODUCTION) of a personal recount with the support of WH- framework and sentence frames. 15-Jun-2023 10:34:48
+Child will demonstrate understanding and use of age-appropriate temporal concepts (before, after) to 80% accuracy independently 27-May-2024 12:35:57.
+
+Patient Family Education Record:
+· Information given	Conducted in English:
+1. Ax findings explained to mother. Explained to mother that child still present with borderline hypernasality and inconsistent audible nasal air emission. Findings from VFSA done in Nov 2024 also indicated largely firm closure with occasional touch closure contributing to borderline hypernasality. Explained to mother that child's resonance will continue to be monitored as she grows to ensure that there is no changes or deterioration to her resonance, as child's current speech is functional and intelligible to all communication partners. Mother verbalised and agreeable.
+2. Management plan explained to mother. Mother verbalised understanding and agreeable
+	
+
+Australian Therapy Outcome Measures(AusTOMS):
+· Speech Pathology Core Areas	Speech
+· Impairment	4.5
+	
+· Activity Limitation	5 nil concerns
+· Participation Restriction	5 nil concerns
+· Distress/Wellbeing	5 nil concerns
+· Speech Pathology Core Areas	Language
+· Impairment	4 mild
+· Activity Limitation	4 mild
+· Participation Restriction	4 mild
+· Distress/Wellbeing	4 mild
+
+Launch Worklist/Patient Follow-up:
+· Institution :	KKH
